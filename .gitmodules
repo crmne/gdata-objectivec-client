@@ -1,0 +1,6 @@
+[submodule "Source/OAuth2"]
+	path = Source/OAuth2
+	url = git://github.com/earcar/gtm-oauth2.git
+[submodule "Source/HTTPFetcher"]
+	path = Source/HTTPFetcher
+	url = git://github.com/earcar/gtm-http-fetcher.git
